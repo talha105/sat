@@ -1,0 +1,17 @@
+export const GET_CITIES="getCities";
+export const GET_AGENCIES="getAgencies";
+export const GET_BUSES="getBuses";
+export const VERIFY_OTP="verifyOTP";
+export const GET_PROFILE_PIC="getProfilePic";
+export const BOOKING_HISTORY="bookingHistory";
+export const GET_POINTS="getPoints"
+export const GET_NOTIFICATION="getNotification"
+export const GET_COM_HIS="getComHistory"
+export const GET_COM_DET="getComDetal"
+export const GET_SUBJECT="getSubject"
+export const GET_REG_CAT="getRegCat"
+export const GET_BOOK_TICKET="getBookTicket"
+export const CURRENT_BOOKING="currentBooking"
+export const GET_TICKETS="getTickets"
+export const GET_PDF="getPDF"
+export const CHANGE_AMOUNT="changeAmount"
